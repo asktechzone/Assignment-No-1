@@ -1,0 +1,166 @@
+.background-img {
+    background-image: url(they-need-us.jpg);
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.help {
+    color: rgb(232, 248, 8);
+    font-size: 2em;
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    color: rgb(243, 16, 54);
+}
+
+.donate-today {
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid red;
+    background-color: rgb(11, 250, 11);
+    padding: 8px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: larger;
+
+}
+
+
+body {
+    margin: 0%;
+}
+
+.box-flex {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    position: relative;
+    margin: 5%;
+
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 45px;
+
+    background-color: rgb(240, 243, 245);
+    margin: 10px;
+    padding: 40px 40px;
+}
+
+#special-border {
+    border: 2px solid purple;
+    background-color: pink;
+}
+
+h6 {
+    text-align: center;
+    color: rgb(111, 136, 158);
+    margin-inline-start: 350px;
+    margin-inline-end: 350px;
+    border-bottom: 1px solid rgb(129, 108, 108);
+
+}
+
+
+section {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#plan {
+    text-align: center;
+}
+
+.box-flex2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.box-icon {
+    width: 350px;
+    height: 350px;
+    background-color: darkgrey;
+    margin: 15px;
+
+}
+
+#light-1 {
+    background-color: rgb(151, 235, 144);
+}
+
+#light-2 {
+    background-color: rgb(118, 110, 230);
+}
+
+#light-3 {
+    background-color: rgb(226, 130, 178);
+}
+
+.p-section {
+    display: flex;
+}
+
+.p-section img {
+    width: 70%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.contribute {
+    margin: 2%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-left: 20%;
+    background-color: beige;
+    height: 100px;
+    width: 750px;
+    padding: 20px;
+   
+}
+
+
+#email {
+    text-align: left;
+  width: 30%;
+  height: 30%;
+  border: none;
+  background-color: lightgray;
+  color: purple;
+  border-radius: 3px;
+}
+#subscribe {
+    width: 20%;
+    height: 30%;
+    border: none;
+    background-color: tomato;
+    color: purple;
+    border-radius: 3px;
+  }
+
+    footer {
+
+        text-align: center;
+        background-color: black;
+        color: tomato;
+        padding: 20px 40px;
+        margin-top: 100px;
+        margin-bottom: 0px;
+
+    }
